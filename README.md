@@ -2,7 +2,7 @@
 
 # Pokemine: Co-op Edition
 
-**A single-file, browser-based Pokémon × Minecraft fan game, now with room-based co-op, live text chat and peer-to-peer voice chat.**
+**ITS a modified version of pokemon red stone.A single-file, browser-based Pokémon × Minecraft fan game, now with room-based co-op, live text chat and peer-to-peer voice chat.**
 
 ![Single file](https://img.shields.io/badge/build-single%20HTML%20file-2ea44f)
 ![No server](https://img.shields.io/badge/co--op-serverless%20(PeerJS)-blue)
@@ -110,11 +110,6 @@ Keys can be rebound from **CONTROLS** on the title screen. The chat key follows 
 
 ---
 
-## 🌐 Deploy on GitHub Pages
-
-1. Create a repository and add `index.html` (and this `README.md`).
-2. **Settings → Pages → Deploy from a branch →** `main` / `(root)`.
-3. Share `https://YOUR_USERNAME.github.io/YOUR_REPO/`. GitHub Pages is HTTPS, so the mic works.
 
 <details>
 <summary><b>How co-op works (technical)</b></summary>
@@ -169,6 +164,6 @@ Compared with the original download:
 
 ## 📜 License and legal
 
-This is an **unofficial, non-commercial fan project**. All original game content belongs to its original developer, and Pokémon / Minecraft intellectual property belongs to its respective owners. My modifications are provided as-is, with no warranty. Please contact the original developer before redistributing or reusing their content.
+This is an **unofficial, non-commercial fan project**. All original game content belongs to its original developer(MOZETECH), and Pokémon / Minecraft intellectual property belongs to its respective owners. My modifications are provided as-is, with no warranty. Please contact the original developer before redistributing or reusing their content.
 
 <div align="center"><sub>Made with ♥ by fans. Modified by Istiaque Ahmed Toyob.</sub></div>
